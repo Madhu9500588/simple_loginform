@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(169, 225, 244);
+}
+
+.password {
+  padding: 8px;
+  font-size: 16px;
+}
+.login-box {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+  margin: 100px auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.id {
+  padding: 8px 15px;
+  font-size: 16px;
+  margin-left: 5px;
+}
